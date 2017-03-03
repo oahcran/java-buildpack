@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# Configuration for the Ruxit framework
+# Configuration for the ProtectApp Security Provider framework
 ---
-version: 1.+
-repository_root: https://download.ruxit.com/agent/paas/cloudfoundry/java
+version: 8.4.+
+repository_root: http://files.cf-hsm.io/protectapp-installer
